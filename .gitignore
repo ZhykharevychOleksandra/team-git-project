@@ -8,3 +8,9 @@ build/test
 *.vcxproj.user
 *.suo
 *.db
+# Visual Studio files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
