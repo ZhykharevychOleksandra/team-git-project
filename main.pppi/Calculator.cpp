@@ -1,3 +1,4 @@
+#include "Calculator.h"
 #include <stdexcept>
 
 int Calculator::multiply(int a, int b)
