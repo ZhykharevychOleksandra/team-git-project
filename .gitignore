@@ -4,3 +4,7 @@
 *.obj
 .vscode/
 build/test 
+.vs/
+*.vcxproj.user
+*.suo
+*.db
